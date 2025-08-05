@@ -6,7 +6,7 @@
 
 A simple web app that lets you display your recently played Spotify tracks in your GitHub README — beautifully and automatically.
 
-> 📌 Created by **[@DuyetBKU](https://github.com/DuyetBKU)**. Inspired by [Dylan Bui](https://github.com/dylanbui)'s [spotify-recently-played-readme](https://github.com/dylanbui/spotify-recently-played-readme).
+> 📌 Created by **[@DuyetBKU](https://github.com/DuyetBKU)**. Inspired by [JeffreyCA](https://github.com/JeffreyCA)'s [spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme.git).
 
 ---
 
