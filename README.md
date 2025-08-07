@@ -37,7 +37,7 @@ npm install
 
 ### 3. Create your `.env.local` file
 
-Create a `.env.local` file in the root and add the following:
+Create a `.env.local`or `.env.example` or some else name file in the root and add the following:
 
 ```env
 NEXT_PUBLIC_REDIRECT_URI=http://127.0.0.1:3000/
@@ -103,7 +103,7 @@ Paste that in your GitHub README.md file!
 
 ## 🙌 Credits
 
--   Inspired by: [dylanbui/spotify-recently-played-readme](https://github.com/dylanbui/spotify-recently-played-readme)
+-   Inspired by: [JeffreyCA](https://github.com/JeffreyCA)'s [spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
 -   Built with: Next.js, Firebase, Spotify API, Ant Design
 
 ---
