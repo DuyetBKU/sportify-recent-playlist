@@ -1,7 +1,7 @@
 # 🎵 Spotify Recently Played — README Generator
 
 <p align="center">
-  <img src="https://github.com/DuyetBKU/sportify-recent-playlist/assets/spotify-preview.gif" width="420" alt="Spotify Preview GIF"/>
+  <img src="https://github.com/DuyetBKU/web-sportify-recent-playlist/assets/spotify-preview.gif" width="420" alt="Spotify Preview GIF"/>
 </p>
 
 A simple web app that lets you display your recently played Spotify tracks in your GitHub README — beautifully and automatically.
@@ -25,7 +25,7 @@ A simple web app that lets you display your recently played Spotify tracks in yo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/DuyetBKU/sportify-recent-playlist.git
+git clone https://github.com/DuyetBKU/web-sportify-recent-playlist.git
 cd sportify-recent-playlist
 ```
 
@@ -94,7 +94,7 @@ npm run deploy
 Once logged in, you’ll get a markdown snippet like:
 
 ```md
-[![Spotify Recently Played](https://spotify-recent-playlist.web.app/api/spotify-recently-played?user=your_spotify_user)](https://open.spotify.com/user/your_spotify_user)
+[![Spotify Recently Played](https://web-spotify-recent-playlist.web.app/api/spotify-recently-played?user=your_spotify_user)](https://open.spotify.com/user/your_spotify_user)
 ```
 
 Paste that in your GitHub README.md file!
